@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pickledire
 - 👀 I’m interested in StarWars 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
