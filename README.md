@@ -39,15 +39,6 @@ const brenden = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickledire&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![SidiousSite](https://github-readme-stats.vercel.app/api/pin/?username=Pickledire&repo=SidiousSite&theme=tokyonight)](https://github.com/Pickledire/SidiousSite)
-[![PythonRPG](https://github-readme-stats.vercel.app/api/pin/?username=Pickledire&repo=PythonRPG&theme=tokyonight)](https://github.com/Pickledire/PythonRPG)
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
