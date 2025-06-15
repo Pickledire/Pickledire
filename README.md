@@ -12,13 +12,13 @@ const brenden = {
     company: "Preply",
     currentProject: "Interactive Party Planner",
     learning: ["React", "JavaScript", "Python"],
-    passion: "Building interactive web apps & Star Wars ⭐"
+    passion: "Building interactive web apps & anything Star Wars ⭐"
 };
 ```
 
 - 🔭 Currently working on **Interactive Party Planner**
 - 🌱 Learning **React** and advancing my JavaScript & Python skills
-- 💬 Ask me about **JavaScript, Python, React**
+- 💬 Ask me about my Book im writing
 - 📫 Reach me: **edwardsbrenden@gmail.com**
 - ⚡ Fun fact: **Biggest Star Wars Fan** 🌟
 
@@ -29,6 +29,8 @@ const brenden = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
